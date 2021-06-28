@@ -1,6 +1,6 @@
 [GAP_lib]
-git-tree-sha1 = "caefa76a0723afce14bfa66a857dd3d4894ff0fa"
+git-tree-sha1 = "a8e551b6f0edec883dee335301cf4aba0b15dad0"
 
     [[GAP_lib.download]]
-    sha256 = "75e5153e4c0cf4c7373084a95bef472718f2c0fcc28ee060c39af35b316b15cf"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_lib_jll.jl/releases/download/GAP_lib-v400.1190.0+0/GAP_lib.v400.1190.0.any.tar.gz"
+    sha256 = "3d09849619d95ba0caed1c2aab151212ed9e58e528f0ad2d446069c116411c5a"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_lib_jll.jl/releases/download/GAP_lib-v400.1190.2+0/GAP_lib.v400.1190.2.any.tar.gz"
