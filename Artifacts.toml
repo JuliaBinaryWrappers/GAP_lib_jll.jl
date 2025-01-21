@@ -3,4 +3,4 @@ git-tree-sha1 = "553ff06be6f5ceb880f85c7905595c81d539bbf7"
 
     [[GAP_lib.download]]
     sha256 = "029086fee80b62e4b52cd1095065381a55f0f2bc4e11f9183578c542b374bf57"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_lib_jll.jl/releases/download/GAP_lib-v400.1401.0+0/GAP_lib.v400.1401.0.any.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_lib_jll.jl/releases/download/GAP_lib-v400.1400.3+0/GAP_lib.v400.1400.3.any.tar.gz"
